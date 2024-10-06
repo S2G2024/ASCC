@@ -2,14 +2,15 @@
 
 #BGA24/sessions #GitPod #Pipeline #Nextflow
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+This session is part of [**S2G2024**]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/ASCC) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/S2G2024/ASCC) 
 
 ## Session Leader(s)
 Wellcome Genome Campus
 - Eerik Aunin, PhD
-- Damon-Lee Pointon
+- Ying Sims, PhD
+
 
 ## Description
 
